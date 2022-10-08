@@ -1,7 +1,7 @@
 # 注意！
 ## All models and their derivatives provided on this page are prohibited from commercial use!
 ## 本页面提供的所有模型及其衍生物严禁商用！
-##请大家使用时遵守CC BY-NC 3.0协议
+## 请大家使用时遵守CC BY-NC 3.0协议
 
 ### 以下是模型的百度网盘链接，玩的愉快！
 
