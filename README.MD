@@ -4,6 +4,8 @@
 
 ### 以下是模型的百度网盘链接，玩的愉快！
 
+模型使用方法参照https://github.com/CjangCjengh/MoeGoe 和 CjangCjengh大佬的b站视频！
+
 #### 只说日语
 
 矢泽妮可：https://pan.baidu.com/s/1LytzHuUqampTDy8OiKI2Dw?pwd=kfeg 
