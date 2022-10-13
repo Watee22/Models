@@ -3,6 +3,9 @@
 ## 本页面提供的所有模型及其衍生物严禁商用！
 ## 请大家使用时遵守CC BY-NC 3.0协议
 
+### Hugging Face 部署（缪斯全员 中日混说）实现！
+https://huggingface.co/spaces/CarlDennis/Lovelive-VITS-JPZH
+
 ### 以下是模型的百度网盘链接，玩的愉快！
 
 模型使用方法参照https://github.com/CjangCjengh/MoeGoe 和 CjangCjengh大佬的b站视频！
@@ -23,8 +26,6 @@
 #### 数据集
 https://pan.baidu.com/s/1zT5BAnk2we79ifZ34L5LWA?pwd=dunx 
 
-#### Hugging Face 部署（缪斯全员 中日混说）实现！
-https://huggingface.co/spaces/CarlDennis/Lovelive-VITS-JPZH
 
 # 我纯纯文科生 欢迎各位大佬们交流指点
 顺便求个一键三联
