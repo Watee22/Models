@@ -23,5 +23,8 @@
 #### 数据集
 https://pan.baidu.com/s/1zT5BAnk2we79ifZ34L5LWA?pwd=dunx 
 
-##### 正在学习hugging face部署,正在学习本地推理 我纯纯文科生 欢迎各位大佬们交流指点
+#### Hugging Face 部署（缪斯全员 中日混说）实现！
+https://huggingface.co/spaces/CarlDennis/Lovelive-VITS-JPZH
+
+# 我纯纯文科生 欢迎各位大佬们交流指点
 顺便求个一键三联
