@@ -12,19 +12,17 @@ https://huggingface.co/spaces/CarlDennis/Lovelive-VITS-JPZH
 
 #### 只说日语
 
-矢泽妮可：https://pan.baidu.com/s/1LytzHuUqampTDy8OiKI2Dw?pwd=kfeg 
+矢泽妮可：https://pan.baidu.com/s/18UQHKIZebyB7-dIkQ7xbnw?pwd=wg7l 
 
-缪斯全员：https://pan.baidu.com/s/1-YA34jEr2Jm0iX37T6glkA?pwd=0eg4 
-
+缪斯全员：链接：https://pan.baidu.com/s/1ZhwuHzPqhKgxY2wGOOOWtQ?pwd=dgx3 
 
 #### 中日混说
-墨小菊+星空凛：https://pan.baidu.com/s/11dam_EqZvLj12oasHnOIKQ?pwd=3coa 
+墨小菊+星空凛：https://pan.baidu.com/s/1Rhz15OO6TIzBbck_VBocHg?pwd=wyjm 
 
-缪斯全员+墨小菊、文芷+标贝：https://pan.baidu.com/s/1bJSDjqXL7l0bVsD5o2XM7g?pwd=3v95 
-
+缪斯全员+墨小菊、文芷+标贝：https://pan.baidu.com/s/1k-7ha_5LpD-C81Pux2blUQ?pwd=mtrc 
 
 #### 数据集
-https://pan.baidu.com/s/1zT5BAnk2we79ifZ34L5LWA?pwd=dunx 
+链接：https://pan.baidu.com/s/1hl2fLBkEREFj1kDb5kIf4g?pwd=tcx9 
 
 
 # 我纯纯文科生 欢迎各位大佬们交流指点
